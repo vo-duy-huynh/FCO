@@ -1,0 +1,17 @@
+names:
+- buttonban
+- buttonhuy
+- buttonmua
+- max
+- min
+- previous
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: text-filter
+  url: https://universe.roboflow.com/vo-duy-huynh-qpvuz/text-filter/dataset/2
+  version: 2
+  workspace: vo-duy-huynh-qpvuz
+test: ../test/images
+train: Text-Filter-2/train/images
+val: Text-Filter-2/valid/images
